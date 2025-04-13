@@ -41,6 +41,3 @@ The goal of this website is to:
 - **FontAwesome (icons)**
 - **Google Fonts**
 ---
-
-## 📁 Folder Structure
-
